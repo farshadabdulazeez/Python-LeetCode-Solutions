@@ -1,6 +1,7 @@
 # ** 1. Two Sum **
 
 '''
+
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
@@ -33,6 +34,7 @@ class Solution(object):
 # Approach
 
 '''
+
 The nums_dict dictionary is used to store the elements of nums and their corresponding indices.
 The for loop iterates through each element in the nums list, and for each element, it calculates the complement (the value needed to reach the target).
 If the complement is already in nums_dict, it means a pair of indices has been found, and the function returns those indices.
