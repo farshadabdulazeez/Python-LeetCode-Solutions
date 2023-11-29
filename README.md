@@ -7,11 +7,11 @@ This repository contains my solutions to various LeetCode problems implemented i
 The repository is organized as follows:
 
 - `python_solutions_with_explanation`: The main folder containing all the LeetCode problem solutions.
-- `Question_<Number>`: Each subfolder corresponds to a specific problem on LeetCode, identified by its number. Each solution folder contains both the code and an explanation. The explanations provide insights into the problem-solving approach and details about the implemented solution
+- `Question_<Number>`: Each subfolder corresponds to a specific problem on LeetCode, identified by its number.
 
 ## How to Use
 
-Feel free to explore the solutions for different problems. Each solution folder contains both the code (`solution.py`) and an explanation (`explanation.md`). The explanations provide insights into the problem-solving approach and details about the implemented solution.
+Feel free to explore the solutions for different problems. Each solution folder contains both the code and an explanation . The explanations provide insights into the problem-solving approach and details about the implemented solution.
 
 ## Contributions
 
