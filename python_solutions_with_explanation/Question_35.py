@@ -55,7 +55,7 @@ Return Position:
 
 If the loop completes without finding the target, return low. This indicates the position where the target should be inserted.
 
-Time compplexity : 0(logn)
+Time complexity : 0(logn)
 
 Space complexity : 0(1)
 

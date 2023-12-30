@@ -34,7 +34,7 @@ The method aims to find and sum unique elements in the input list while ignoring
 It leverages a set to obtain unique elements and then uses a list comprehension to filter elements that occur only once in the original list.
 The sum of these unique elements is calculated and returned.
 
-Time compplexity :  O(n^2)
+Time complexity :  O(n^2)
 
 Space complexity :  O(n)
 

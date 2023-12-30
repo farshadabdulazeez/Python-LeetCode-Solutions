@@ -48,7 +48,7 @@ zip(s, t) creates pairs of corresponding characters from strings s and t.
 all(i == j for i, j in zip(s, t)) checks if all pairs have equal characters.
 The all function returns True if all elements of the iterable are true, and False otherwise.
 
-Time compplexity : 0(n)
+Time complexity : 0(n)
 
 Space complexity : 0(1)
 

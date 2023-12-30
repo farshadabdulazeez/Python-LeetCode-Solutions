@@ -49,7 +49,7 @@ Add New Digit if Needed:
 If the loop completes without returning, it means all digits were 9.
 Add a new digit 1 to the left of the list.
 
-Time compplexity : 0(n)
+Time complexity : 0(n)
 
 Space complexity : 0(1)
 

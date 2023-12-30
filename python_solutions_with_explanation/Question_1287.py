@@ -38,7 +38,7 @@ Calculate the threshold based on the length of the array.
 Iterate through the array using a linear scan.
 Check if the current element is equal to the element at an index threshold positions ahead. If true, return that element.
 
-Time compplexity : 0(logn)
+Time complexity : 0(logn)
 
 Space complexity : 0(1)
 

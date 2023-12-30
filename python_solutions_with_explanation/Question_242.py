@@ -59,7 +59,7 @@ The second for loop does the same for string t, updating the counts in the count
 
 Finally, the function returns True if the count_s dictionary is equal to the count_t dictionary, indicating that the two strings have the same character frequencies and are therefore anagrams. Otherwise, it returns False.
 
-Time compplexity : 0(n)
+Time complexity : 0(n)
 
 Space complexity : 0(1)
 
